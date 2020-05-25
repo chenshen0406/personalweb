@@ -1,0 +1,455 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Shen Chen</title>
+		<meta charset="utf-8" />
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/custom.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="#" class="image avatar"><img src="images/shen.jpg" alt="Link to work" /></a>
+					<h1> 陈 伸 </h1>
+						<p>数据新闻记者</p>
+						<ul >
+							<li><a href="#two" > 数据可视化 </a></li>
+							<li><a href="#three" > 音频 </a></li>
+							<li><a href="#four" > 发表作品 </a></li>
+							<li><a href="#five"> 绘画 </a></li>
+						</ul>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<p>Hi! </p>
+						<p>我目前在北京<a href="http://www.xinhuanet.com/datanews/index.htm">新华社融媒创新孵化器</a>担任数据可视化的相关工作。</p>
+					</section>
+
+				<!-- Two -->
+					<section id="two">
+						<h2>数据可视化</h2>
+						<p>数据可视化是我日常的主要工作，D3.js是我通常使用的工具，目前我正在研究three.js </p>
+
+
+						<div class="row">
+							<article class="col-12 col-12-xsmall work-item">
+								<a href="http://www.xinhuanet.com/video/sjxw/2019-08/02/c_1210225888.htm" target="_Blank" class="image fit thumb" ><img style="height:600px" src="images/thumbs/medicine1.png"/></a>
+								<h3 class='sub_title'>中医药不是席地而坐的大象</h3>
+								<div id='subhead'><p>被收录入《中国数据新闻佳作鉴赏·第二辑》</p></div>
+								<p>
+								新华网数据新闻以孙星衍版本的《神农本草经》为蓝本，对《神农本草经》所录365种药材的五味、气质、类别、主治病症、产地以及由其提出的“十八反十九畏”进行可视化展示，并结合中国中医药在国际标准化组织中发布的成果进一步呈现中医药对当代社会的作用与影响。
+								</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/medicine2.gif" />
+								<div id='subhead'><p>《神农本草经》旭日图</p></div>
+								<p>旭日图展现了孙星衍版的《神农本草经》全书脉络</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/medicine3.gif" />
+								<div id='subhead'><p>“十八反十九畏”视差轮播图</p></div>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/medicine4.gif" />
+								<div id='subhead'><p>Curve graph (借鉴 <a href="http://sxywu.com/olympics/">Shirley</a> )</p></div>
+								<p>展现了武侠小说和宫斗剧中涉及草药的真实药效和剧中效果的对比 </p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/medicine5.gif" />
+								<div id='subhead'><p>中日韩中医药的国际标准竞争图时间轴</p></div>
+							</article>
+
+							<article class="col-12 col-12-xsmall work-item">
+								<a href="http://www.xinhuanet.com/video/sjxw/2019-04/12/c_1210106721.htm" class="image fit thumb" target="_blank"><img style="height:600px" src="images/thumbs/fire1.png"/></a>
+								<h3 class='sub_title'>防患于未“燃”-全国十年火灾大数据警示</h3>
+								<div id='subhead'><p>获得中国数据可视化创作大赛的评委特别奖<br />2019年度应急管理好新闻</p></div>
+								<p>
+                  新华网联合国家应急管理部消防救援局，分析了自2008年以来全国较大及重特大火灾案件信息数据共7047组；层层深入，寻找酿成大祸的根源，发现那些被人忽视的火灾隐患。
+								</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/fire2.gif" />
+								<div id='subhead'><p>2008-2017年全国较大及重特大火灾案件季节统计</p></div>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/fire3.png" />
+								<div id='subhead'><p>起火原因词云图</p></div>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/fire4.gif" />
+								<div id='subhead'><p>2008-2017年全国较大及重特大火灾发生季节和时间分布堆叠柱状图</p></div>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/fire5.gif" />
+								<div id='subhead'><p>2008-2017年全国较大及重特大火灾案件死亡人数及过火面积点图</p></div>
+							</article>
+
+							<article class="col-12 col-12-xsmall work-item">
+								<a href="http://www.xinhuanet.com/video/sjxw/2019-02/19/c_1210062862.htm" class="image fit thumb" target="_blank"><img style="height:600px" src="images/thumbs/festival1.jpg"/></a>
+								<h3 class='sub_title'>家宴·人间至味是团圆</h3>
+								<p>
+                  正月里吃团圆饭是亘古不变的传统。新华网媒体创意工场数据新闻部抓取中国传统菜肴专家数据和最受欢迎的美食菜谱网站的UGC数据共9327组，通过分析菜品食材、调料、颜色、味道和地区习惯等维度，从细微之处诠释团圆之精神内涵。
+								</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/festival2.gif" />
+								<div id='subhead'><p>桑吉图：春节家宴菜品组合方式参考、地域及其寓意</p></div>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/festival3.gif" />
+								<div id='subhead'><p>Interactive force directed graph:春节家宴菜品成分以及主材、辅材配比</p></div>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/festival4.jpg" />
+								<div id='subhead'><p>春节家宴菜品颜色分析图</p></div>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/festival5.gif" />
+								<div id='subhead'><p>交互热力图: 春节家宴菜品烹饪火候及其口感、味道</p></div>
+							</article>
+
+							<article class="col-12 col-12-xsmall work-item">
+								<a href="http://fms.news.cn/swf/2018_sjxw/12_30_sqdr/index.html" class="image fit thumb" target="_blank"><img style="height:600px" src="images/thumbs/scroll1.png"/></a>
+								<h3>再见，谢谢你</h3>
+							</article>
+
+							<article class="col-12 col-12-xsmall work-item">
+								<a href="http://www.xinhuanet.com/video/sjxw/2019-12/27/c_1210414721.htm" class="image fit thumb" target="_blank"><img style="height:600px" src="images/thumbs/scroll2.png"/></a>
+								<h3>告别，伟大耳隐秘的他们</h3>
+							</article>
+
+							<article class="col-12 col-12-xsmall work-item">
+								<a href="https://web.northeastern.edu/themargins/tech-was-supposed-to-be-the-great-equalizer/" class="image fit thumb" target="_blank"><img style="height:600px" src="images/thumbs/dan.gif"/></a>
+								<h3>A CHALLENGING ROAD</h3>
+								<p>
+									Tech was supposed to be the great equalizer. So where are all the black people?
+								</p>
+							</article>
+
+							<!-- <article class="col-12 col-12-xsmall work-item">
+								<a href="https://chenshen0406.github.io/homepage/datalist.html" class="image fit thumb" target="_blank"><img style="height:600px" src="images/thumbs/dave.gif"/></a>
+								<h3>THE TREND OF U.S. STARTUP ACTIVITY</h3>
+								<p>
+									Coding course homework
+								</p>
+							</article> -->
+
+							<!-- <article class="col-12 col-12-xsmall work-item">
+								<a href="https://chenshen0406.github.io/final/dist/" class="image fit thumb" target="_blank"><img style="height:600px" src="images/thumbs/dots.gif"/></a>
+								<h3>TERRORISM IN THE UNITED STATES FROM 1996 TO 2016</h3>
+								<p>
+									Coding course homework
+								</p>
+							</article> -->
+						</div>
+
+					</section>
+
+
+					<!-- Three -->
+						<section id="three">
+							<h2>Video and Audio</h2>
+							<div class="row">
+								<article class="col-6 col-12-xsmall work-item">
+									<a href="https://pan.baidu.com/s/1smZmDOD" class="image fit thumb" target="_blank"><img src="images/thumbs/video1.jpg" alt="Link to work" /></a>
+									<h3>24/7</h3>
+									<p>讲述了非裔企业家在美国创业的艰辛和挑战</p>
+								</article>
+								<article class="col-6 col-12-xsmall work-item">
+									<a href="https://pan.baidu.com/s/1pMO1xft" class="image fit thumb" target="_blank"><img src="images/thumbs/audio1.jpg" alt="Link to work" /></a>
+									<h3 class='sub_title'>Minimum Wage in Massachusetts</h3>
+									<p>讲述了一群在麻省拿最低工资的人</p>
+								</article>
+							</div>
+
+						</section>
+
+						<!-- Four -->
+							<section id="four">
+								<h2>Publications</h2>
+								<article class="col-12 col-12-xsmall work-item">
+									<table style="width:100%">
+
+                    <tr>
+                      <td class="date">05/25/2020</td>
+                      <td class="work">
+                        <a href="http://fms.news.cn/swf/2020_sjxw/2_1_xgyq/index.html?v=0.2549804477332146" class='sub_title' target="_blank">
+                          新冠肺炎疫情实时动态
+                        </a><br>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td class="date">05/09/2020</td>
+                      <td class="work">
+                        <a href="http://www.xinhuanet.com/video/sjxw/2020-05/09/c_1210611324.htm" class='sub_title' target="_blank">
+                          一图看清：境外输入病例从哪里来，到哪里去？
+                        </a><br>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td class="date">03/13/2020</td>
+                      <td class="work">
+                        <a href="http://www.xinhuanet.com/video/sjxw/2020-03/13/c_1210512285.htm" class='sub_title' target="_blank">
+                          一周来，这些航班飞往中国！防疫情输入成重点
+                        </a><br>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td class="date">03/13/2020</td>
+                      <td class="work">
+                        <a href="http://www.xinhuanet.com/video/2020-03/13/c_1210512931.htm" class='sub_title' target="_blank">
+                          最新！20秒看近20天全球疫情变化！
+                        </a><br>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td class="date">03/05/2020</td>
+                      <td class="work">
+                        <a href="http://www.xinhuanet.com/video/sjxw/2020-03/05/c_1210501522.htm" class='sub_title' target="_blank">
+                          各省（区、市）驰援湖北医护人员分布
+                        </a><br>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td class="date">02/18/2020</td>
+                      <td class="work">
+                        <a href="http://www.xinhuanet.com/video/2020-03/13/c_1210512931.htm" class='sub_title' target="_blank">
+                          期待这片“蓝”范围更广
+                        </a><br>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td class="date">02/17/2020</td>
+                      <td class="work">
+                        <a href="http://www.xinhuanet.com/video/sjxw/2020-02/17/c_1210478008.htm" class='sub_title' target="_blank">
+                          期待这条“橙”持续下降
+                        </a><br>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td class="date">02/14/2020</td>
+                      <td class="work">
+                        <a href="http://www.xinhuanet.com/video/sjxw/2020-02/14/c_1210474508.htm" class='sub_title' target="_blank">
+                          期待这片“绿”越来越多
+                        </a><br>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td class="date">01/23/2020</td>
+                      <td class="work">
+                        <a href="http://www.xinhuanet.com/video/sjxw/2020-01/23/c_1210450336.htm" class='sub_title' target="_blank">
+                          “新型冠状病毒”手册之预防篇
+                        </a><br>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td class="date">01/23/2020</td>
+                      <td class="work">
+                        <a href="http://www.xinhuanet.com/video/sjxw/2020-01/22/c_1210449031.htm" class='sub_title' target="_blank">
+                        “新型冠状病毒”手册之了解篇
+                        </a><br>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td class="date">15/12/2019</td>
+                      <td class="work">
+                        <a href="http://www.xinhuanet.com/video/sjxw/2019-12/25/c_1210411495.htm" class='sub_title' target="_blank">
+                          2019年的“喜怒哀乐”我们一起度过
+                        </a><br>
+                      </td>
+                    </tr>
+
+									<tr>
+										<td class="date">08/13/2019</td>
+										<td class="work">
+											<a href="http://fms.news.cn/swf/2019_sjxw/8_13_ms/index.html" class='sub_title' target="_blank">
+												快来探索！你的生活已经改变
+											</a><br>
+										</td>
+									</tr>
+
+									<tr>
+										<td class="date">07/09/2019</td>
+										<td class="work">
+											<a href="http://www.xinhuanet.com/video/sjxw/2019-07/09/c_1210186580.htm" class='sub_title' target="_blank">
+												有逃必追！数看中央追逃办成立这5年
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">05/30/2019</td>
+										<td class="work">
+											<a href="http://www.xinhuanet.com/video/sjxw/2019-05/30/c_1210147977.htm " class='sub_title' target="_blank">
+												一图读懂丨学位点被撤销，在读学生怎么办？
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">05/10/2019</td>
+										<td class="work">
+											<a href="http://www.xinhuanet.com/video/sjxw/2019-05/10/c_1210131054.htm" class='sub_title' target="_blank">
+												盘一盘“五一”旅游消费大数据：时间和钱都去哪儿了
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">06/25/2019</td>
+										<td class="work">
+											<a href="http://www.xinhuanet.com/video/sjxw/2019-06/25/c_1210169179.htm" class='sub_title' target="_blank">
+												数看历年QS世界大学排名 中国这些高校表现突出
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">12/18/2018</td>
+										<td class="work">
+											<a href="http://www.xinhuanet.com/video/sjxw/2018-12/18/c_1210018050.htm" class='sub_title' target="_blank">
+												40年·大国名片
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">11/12/2018</td>
+										<td class="work">
+											<a href="http://www.xinhuanet.com/video/sjxw/2018-11/12/c_129991856.htm" class='sub_title' target="_blank">
+												一车一相机，跨伶仃洋游香港
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">09/19/2018</td>
+										<td class="work">
+											<a href="http://www.xinhuanet.com/video/sjxw/2018-09/19/c_129956661.htm" class='sub_title' target="_blank">
+												打开这本手账，邂逅不一样的香港
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">02/28/2015</td>
+										<td class="work">
+											<a href="http://qjwb.zjol.com.cn/html/2015-02/28/content_2977026.htm?div=-1" class='sub_title' target="_blank">
+                        熬过今天，趁着雨水歇脚，晾晒衣服和心情，都赶紧的
+											</a><br>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">02/21/2015</td>
+										<td class="work">
+											<a href="http://qjwb.zjol.com.cn/html/2015-02/21/content_2974654.htm?div=-1" class='sub_title' target="_blank">
+                        品一杯龙井，寻一间西湖民宿
+											</a><br>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">02/11/2015</td>
+										<td class="work">
+											<a href="http://qjwb.zjol.com.cn/html/2015-02/11/content_2968816.htm?div=-1" class='sub_title' target="_blank">
+                        袁浦老工匠手工打造的30条摇橹船，昨夜西湖茅家埠下水
+                      </a><br>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">02/04/2015</td>
+										<td class="work">
+											<a href="http://qjwb.zjol.com.cn/html/2015-02/04/content_2962289.htm?div=-1" class='sub_title' target="_blank">
+												这帮吃货，转战南山路去了
+											</a><br>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">01/30/2015</td>
+										<td class="work">
+											<a href="http://qjwb.zjol.com.cn/html/2015-01/30/content_2958847.htm?div=-1" class='sub_title' target="_blank">
+												8条萌萌的狗狗，想找个新家
+											</a><br>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">01/29/2015</td>
+										<td class="work">
+											<a href="http://qjwb.zjol.com.cn/html/2015-01/29/content_2956926.htm?div=-1" class='sub_title' target="_blank">
+                        雨水、西湖水统统动员起来，西湖龙井，今年不怕渴了
+											</a><br>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">01/28/2015</td>
+										<td class="work">
+											<a href="http://qjwb.zjol.com.cn/html/2015-01/28/content_2956063.htm?div=-1" class='sub_title' target="_blank">
+                        杭州市文保点蒋经国旧居要开麦当劳，老建筑联姻洋快餐，爱还是不爱
+											</a><br>
+										</td>
+									</tr>
+									<tr>
+										<td class="date">01/23/2015</td>
+										<td class="work">
+											<a href="http://qjwb.zjol.com.cn/html/2015-01/23/content_2951926.htm?div=-1" class='sub_title' target="_blank">
+                        1000份寺院腊八粥，不用您来领，快递当天送上门
+											</a><br>
+										</td>
+									</tr>
+								</table>
+								</article>
+							</section>
+
+							<section id="five">
+								<h2>绘画</h2>
+								<!-- <p>I have loved drawing since I was a kid. Sometimes painting helps to distract me from difficult situations and concentrate my mind. </p> -->
+								<div class="box alt">
+									<div class="row gtr-50 gtr-uniform">
+										<article class="col-12 col-12-xsmall tall-work-item"><a href="images/thumbs/fine6.jpg" class="image fit thumb"><img src="images/thumbs/fine6.jpg"/></a></article>
+										<article class="col-5 col-12-xsmall work-item"><a href="images/thumbs/fine2.jpg" class="image fit thumb"><img src="images/thumbs/fine2.jpg"/></a></article>
+										<article class="col-7 col-12-xsmall work-item"><a href="images/thumbs/fine3.jpg" class="image fit thumb"><img src="images/thumbs/fine3.jpg"/></a></article>
+										<article class="col-6 col-12-xsmall work-item"><a href="images/thumbs/fine4.jpg" class="image fit thumb"><img src="images/thumbs/fine4.jpg"/></a></article>
+										<article class="col-6 col-12-xsmall work-item"><a href="images/thumbs/fine1.jpg" class="image fit thumb"><img src="images/thumbs/fine1.jpg"/></a></article>
+										<article class="col-12 col-12-xsmall tall-work-item"><a href="images/thumbs/fine5.jpg" class="image fit thumb"><img src="images/thumbs/fine5.jpg"/></a></article>
+										<article class="col-6 col-12-xsmall work-item"><a href="images/thumbs/fine7.jpg" class="image fit thumb"><img src="images/thumbs/fine7.jpg" /></a></article>
+									</div>
+								</div>
+							</section>
+
+
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<!-- <ul class="icons">
+						<li><a href="http://twitter.com/beatricezjin" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+						<li><a href="http://github.com/bzjin" class="icon fa-github" target="_blank"><span class="label">Github</span></a></li>
+						<li><a href="https://www.linkedin.com/in/beatrice-j-1486b997/" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+					</ul> -->
+					<ul class="copyright" >
+						<li>&copy; 陈 伸</li><li>Template: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
